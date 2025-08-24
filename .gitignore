@@ -14,8 +14,6 @@ __pycache__/
 
 # Logs and reports
 *.log
-reports/*.pdf
-reports/*.png
 
 # OS files
 .DS_Store
